@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebReferenceLoopHandling", "WebReferenceLoopHandling\WebReferenceLoopHandling.csproj", "{4EE730D2-8416-4F7E-B4CD-453D660529AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D421A14B-0875-499C-B767-2B457EAD27CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE730D2-8416-4F7E-B4CD-453D660529AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE730D2-8416-4F7E-B4CD-453D660529AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE730D2-8416-4F7E-B4CD-453D660529AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE730D2-8416-4F7E-B4CD-453D660529AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D421A14B-0875-499C-B767-2B457EAD27CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D421A14B-0875-499C-B767-2B457EAD27CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D421A14B-0875-499C-B767-2B457EAD27CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D421A14B-0875-499C-B767-2B457EAD27CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8775B01-1F0D-47E2-B628-6E6370153003}
+	EndGlobalSection
+EndGlobal
